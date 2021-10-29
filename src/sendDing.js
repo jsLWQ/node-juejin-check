@@ -6,8 +6,8 @@ const { Post } = require('./utils/request')
  * 参考链接：https://www.bilibili.com/read/cv11459481/
  */
 
-const Webhook = 'https://oapi.dingtalk.com/robot/send?access_token=44b2468ed19d421bf275d29cddcdce9bdec0ecc1191e04d09c0db56997427631'
-const SECRET = 'SEC75dc3bcd508e87b4cb4bb899e6cb6a0c196f1e4ed6bd2b0ec1659f99ae206155' // 加签
+const Webhook = ''
+const SECRET = '' // 加签
 
 
 // 加签模式
